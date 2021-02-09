@@ -2,7 +2,7 @@
   "name": "@csejtei/react-fancy-button",
   "module": "/dist/react-fancy-button",
   "description": "A react-fancy-button for ReactJS projects.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "Saiyad Husain",
     "email": "saiyad.husain@ymail.com"
