@@ -1,8 +1,8 @@
 {
-  "name": "@csejtei/react-fancy-button",
+  "name": "react-fancy-button",
   "module": "/dist/react-fancy-button",
   "description": "A react-fancy-button for ReactJS projects.",
-  "version": "1.1.1",
+  "version": "0.0.1",
   "author": {
     "name": "Saiyad Husain",
     "email": "saiyad.husain@ymail.com"
@@ -13,6 +13,7 @@
     "url": "git@github.com:sydhsn/react-fancy-button.git"
   },
   "license": "MIT",
+  "keywords": ["reactjs","react","react-fancy-button","storybook","react-fancy-button"],
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
